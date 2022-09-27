@@ -2,13 +2,12 @@
 
 SALSA (Simple Automated LipSync Aproximation) is a realtime system for creating lip synchronization from audio input without the need for phoneme mapping or baking. This creates a simple and fast workflow that allows the designer to implement lipsync into their project without spending a lot of time or effort. 
 
-### IDE
-
-- Unity 2019.4.33f1
-
+### Demo
 
 ![Demo](Demos/demo.gif)
 
+### IDE
+- Unity 2019.4.33f1
 
 ### References
 
